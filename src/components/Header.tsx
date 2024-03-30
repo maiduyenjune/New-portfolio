@@ -46,6 +46,9 @@ const resumeButton = css`
   background-color: ${colors.yellow};
   font-weight: bold;
   color: #000;
+  @media screen and (max-width:600px){
+    display:none;
+  }
 `;
 
 const Header: FC<{ dark?: boolean }> = ({ dark = false }) => {

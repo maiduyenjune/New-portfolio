@@ -80,6 +80,9 @@ const description = css`
   flex: 1;
   padding: 0 1rem;
   text-align: center;
+  @media screen and (max-width:600px){
+    font-size:1rem;
+  }
 `;
 
 const cursor = ({ x, y }: { x: string; y: string }) => css`

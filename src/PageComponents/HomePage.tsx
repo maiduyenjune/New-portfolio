@@ -32,7 +32,7 @@ const HomePage: NextPage = () => {
       <HomePageMyServices />
 
       <Link href={routeLinks.projects()} css={link}>
-        See How I untied the knots <ArrowForwardIcon css={icon} />
+        See how I untied the knots <ArrowForwardIcon css={icon} />
       </Link>
 
       <Footer />
