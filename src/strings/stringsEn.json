@@ -1,0 +1,21 @@
+{
+  "$schema": "./strings.schema.json",
+  "shared": {},
+  "ContactPage": {
+    "description": "Feel free to contact me. I'm always eager to connect with fellow developers and potential clients!",
+    "followOnSocialMedia": "Follow me on Social Media",
+    "title": "Have a project in mind or just want to say hi?"
+  },
+  "HomePage": {
+    "Hero": {
+      "title1": "Hi I'm min.",
+      "title2": "A Front-end Developer",
+      "description": "Hello, my name is Nhung Nguyen. I am a skilled web developer. I thoroughly enjoy turning creative ideas into functional and visually appealing websites."
+    }
+  },
+  "MyProjects": {
+    "description": "Personal projects reflect my passion for creativity and technology.",
+    "personalWork": "PERSONAL WORK",
+    "title": "My Projects"
+  }
+}
