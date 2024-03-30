@@ -62,11 +62,10 @@ const AboutPage: NextPage = () => {
       />
       <Header dark />
       <div css={container}>
-        <Image
+        <img
           src={aboutMe.src}
           height={600}
           width={600}
-          priority
           alt="June"
           css={image}
         />
