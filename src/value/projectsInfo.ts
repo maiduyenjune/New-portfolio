@@ -423,7 +423,7 @@ export const projectInfos: ProjectInfo[] = [
     projectPreview:
       "In the project, my responsibilities is increasing the brand awareness in Canada including crafting campaign and redesign brand logo",
     type: "Branding",
-    img: "/images/Alessi/The creative brief (1920 x 2000 px).png",
+    img: "/images/Alessi/0.png",
     category: "Personal Project",
     intro: "Branding & Strategy",
     finalProduct: [

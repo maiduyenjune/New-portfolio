@@ -28,7 +28,8 @@ const contentWrapper = css`
 
 const videoBg = css`
   width: 1688px;
-`;
+position:absolute;
+top:-50px;`
 
 const videoContainer = css`
   position: absolute;

@@ -7,7 +7,7 @@ import colors from "@/value/colors";
 const link = ({ dark }: { dark: boolean }) => css`
   transition: all 0.3s ease;
   position: relative;
-  font-size: 1.25rem;
+  font-size: 1rem;
 
   &:hover {
     &::after {
@@ -25,7 +25,7 @@ const link = ({ dark }: { dark: boolean }) => css`
 const activeLink = ({ dark }: { dark: boolean }) => css`
   color: ${dark ? colors.yellow : colors.black};
   position: relative;
-  font-size: 1.25rem;
+  font-size: 1rem;
 
   &::after {
     content: "";
