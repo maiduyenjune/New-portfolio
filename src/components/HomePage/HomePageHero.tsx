@@ -9,7 +9,7 @@ const container = css`
   align-items: center;
   justify-content: center;
   width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
   position: relative;
 
   height: 100vh;
