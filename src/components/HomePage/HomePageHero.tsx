@@ -65,7 +65,7 @@ const title = css`
 
 const description = css`
   font-size: 1.25rem;
-  max-width: 35rem;
+  max-width: 37rem;
   flex: 1;
   padding: 0 1rem;
   text-align: center;
