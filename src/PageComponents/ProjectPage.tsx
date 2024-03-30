@@ -22,14 +22,14 @@ const container = css`
   min-height: calc(100vh - 5rem);
   align-items: center;
   padding: 2rem 0;
-  gap: 5rem;
+  
 `;
 
 const contentWrapper = css`
   ${contentContainer}
-  max-width: 1400px;
+  
   gap: 2rem;
-  padding: 0 1rem;
+  padding: 0;
   width: 100%;
   display: flex;
   align-items: center;
@@ -55,11 +55,19 @@ const headingDescription = css`
 `;
 
 const infoContainer = css`
+  display: flex;
+  justify-content: center;
+  background:black;
+  color:white;
+  width: 100%;
+  padding: 5rem 0;
+  
+`;
+const infoWrapper = css`
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 3rem;
   max-width: 1200px;
-
   @media screen and (max-width: 900px) {
     grid-template-columns: 1fr;
   }
@@ -98,7 +106,7 @@ const productsContainer = css`
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  padding: 5rem 0;
+  padding: 5rem 1rem;
   align-items: center;
 
   h1 {
@@ -129,29 +137,31 @@ const ProjectPage: NextPage = () => {
         </div>
         <div css={contentWrapper}>
           <div css={infoContainer}>
-            <div css={infoItem}>
-              <h3 css={infoTitle}>Overview</h3>
-              <p css={infoDescription}>{project.projectPreview}</p>
-            </div>
-            <div css={info2Container}>
-              <div css={infoItemContainer}>
-                <div css={infoItem}>
-                  <h3 css={infoTitle}>Category</h3>
-                  <p css={infoDescription}>{project.category}</p>
-                </div>
-                <div css={infoItem}>
-                  <h3 css={infoTitle}>Duration</h3>
-                  <p css={infoDescription}>{project.duration}</p>
-                </div>
+            <div css={infoWrapper}>
+              <div css={infoItem}>
+                <h3 css={infoTitle}>Overview</h3>
+                <p css={infoDescription}>{project.projectPreview}</p>
               </div>
-              <div css={infoItemContainer}>
-                <div css={infoItem}>
-                  <h3 css={infoTitle}>Tools</h3>
-                  <p css={infoDescription}>{project.tools}</p>
+              <div css={info2Container}>
+                <div css={infoItemContainer}>
+                  <div css={infoItem}>
+                    <h3 css={infoTitle}>Category</h3>
+                    <p css={infoDescription}>{project.category}</p>
+                  </div>
+                  <div css={infoItem}>
+                    <h3 css={infoTitle}>Duration</h3>
+                    <p css={infoDescription}>{project.duration}</p>
+                  </div>
                 </div>
-                <div css={infoItem}>
-                  <h3 css={infoTitle}>Deliver</h3>
-                  <p css={infoDescription}>{project.deliver}</p>
+                <div css={infoItemContainer}>
+                  <div css={infoItem}>
+                    <h3 css={infoTitle}>Tools</h3>
+                    <p css={infoDescription}>{project.tools}</p>
+                  </div>
+                  <div css={infoItem}>
+                    <h3 css={infoTitle}>Deliver</h3>
+                    <p css={infoDescription}>{project.deliver}</p>
+                  </div>
                 </div>
               </div>
             </div>
