@@ -62,18 +62,7 @@ const title = css`
   justify-content: center;
   align-items: center;
 `;
-const infoContainer = css`
-  font-size: clamp(1rem, 2vw, 1.5rem);
-  font-family: "confiteria_scriptbold";
-  color: #adadad;
-  display: flex;
-  max-width: 1200px;
-  justify-content: space-between;
-  width: 100%;
-  padding-bottom: 3rem;
 
-  text-align: center;
-`;
 const description = css`
   font-size: 1.25rem;
   max-width: 35rem;
@@ -148,11 +137,7 @@ const HomePageHero: FC = () => {
             and effective solutions to complex problems
           </p>
 
-          <div css={infoContainer}>
-            <div>june nguyen</div>
-            <div>Design is problem solving</div>
-            <div>Product designer</div>
-          </div>
+
         </div>
       </div>
     </div>

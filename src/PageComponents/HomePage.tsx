@@ -23,12 +23,30 @@ const link = css`
 const icon = css`
   font-size: 2.5rem;
 `;
+
+const infoContainer = css`
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  font-family: "confiteria_scriptbold";
+  color: #adadad;
+  display: flex;
+  max-width: 1200px;
+  justify-content: space-between;
+  width: 100%;
+  padding-bottom: 3rem;
+
+  text-align: center;
+`;
 const HomePage: NextPage = () => {
   return (
     <PageContainer dark={false}>
       <PageMeta title="June - Duyen Nguyen" description={"Duyen Nguyen"} />
       <Header dark={false} />
       <HomePageHero />
+      <div css={infoContainer}>
+        <div>june nguyen</div>
+        <div>Design is problem solving</div>
+        <div>Product designer</div>
+      </div>
       <HomePageMyServices />
 
       <Link href={routeLinks.projects()} css={link}>
