@@ -12,7 +12,7 @@ const container = css`
   display: flex;
   justify-content: center;
   margin-top: 2rem;
-  padding: 7rem 0;
+  padding-top:7rem;
   width: 100%;
   text-align: center;
   flex-direction: column;
@@ -23,7 +23,7 @@ const contentWrapper = css`
   max-width: 1400px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  padding: 2rem 1rem;
+  padding: 2rem 1rem 0rem 1rem;
   grid-gap: 1rem;
 
   @media screen and (max-width: 920px) {
