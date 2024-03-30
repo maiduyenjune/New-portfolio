@@ -11,7 +11,7 @@ const container = css`
   border-top: 50px solid ${colors.yellow};
   display: flex;
   justify-content: center;
-  margin-top: 5rem;
+  margin-top: 2rem;
   padding: 7rem 0;
   width: 100%;
   text-align: center;
@@ -88,7 +88,7 @@ const HomePageMyServices: FC = () => {
   return (
     <div css={container}>
       <div css={textContainer}>
-        <h1 css={sectionTitle}>Delivering good designs</h1>
+        <h1 css={sectionTitle}> Delivering good designs</h1>
         <h1 css={sectionTitle2}>Combining various disciplines</h1>
         <p css={sectionDescription}>
           I provide a diverse skill set across various disciplines that enables

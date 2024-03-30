@@ -32,8 +32,6 @@ const infoContainer = css`
   max-width: 1200px;
   justify-content: space-between;
   width: 100%;
-  padding-bottom: 3rem;
-
   text-align: center;
 `;
 const HomePage: NextPage = () => {
