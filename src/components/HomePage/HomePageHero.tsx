@@ -97,6 +97,7 @@ const cursor = ({ x, y }: { x: string; y: string }) => css`
   align-items: center;
   font-size: 0.75rem;
   font-weight: 700;
+  overflow: hidden;
 `;
 
 const HomePageHero: FC = () => {
