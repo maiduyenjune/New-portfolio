@@ -54,7 +54,7 @@ const ProjectsListItem: FC<{ project: ProjectInfo }> = ({ project }) => {
     >
       {project.img && (
         <div css={imgContainer}>
-          <Image
+          <img
             src={project.img}
             height={291}
             width={389}
