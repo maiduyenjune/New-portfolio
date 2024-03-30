@@ -7,6 +7,7 @@ const container = css`
   flex-direction: column;
   align-items: center;
   max-width: 1200px;
+
 `;
 
 const twoImageContainer = css`
@@ -36,6 +37,8 @@ const imageContainer = css`
 `;
 const imageItem = css`
   max-width: 100%;
+  border-radius: 20px;
+
 `;
 
 const fullImageItem = css`
