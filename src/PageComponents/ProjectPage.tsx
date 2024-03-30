@@ -42,6 +42,7 @@ const headingContainer = css`
   background-color: ${colors.yellow};
   width: 100%;
   text-align: center;
+  margin-top: 3rem;
 `;
 
 const headingTitle = css`
