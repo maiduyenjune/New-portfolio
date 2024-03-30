@@ -55,6 +55,7 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/Locket/11.png"] },
       { image: ["/images/Locket/12.png"] },
       { image: ["/images/Locket/13.png"] },
+      { video: "/images/Locket/video locket.mp4" }
     ],
   },
   {
@@ -151,6 +152,7 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/naturCycle/Natur25.png"] },
       { image: ["/images/naturCycle/Natur26.png"] },
       { image: ["/images/naturCycle/Natur28.png"] },
+      { video: "/images/naturCycle/NaturCycle video test.mp4" }
     ],
   },
   {
