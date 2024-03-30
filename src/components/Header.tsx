@@ -59,7 +59,7 @@ const Header: FC<{ dark?: boolean }> = ({ dark = false }) => {
         <Logo />
         <NavList dark={dark} />
         <Link
-          href="/pdf/Resume - June Nguyen.pdf"
+          href="/pdf/June Duyen Nguyen - Resume.pdf"
           css={resumeButton}
           target="__blank"
         >

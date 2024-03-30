@@ -91,7 +91,7 @@ const AboutPage: NextPage = () => {
           </p>
 
           <Link
-            href="/pdf/Resume - June Nguyen.pdf"
+            href="/pdf/June Duyen Nguyen - Resume.pdf"
             css={resumeButton}
             target="__blank"
           >
