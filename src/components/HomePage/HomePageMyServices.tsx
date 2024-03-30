@@ -80,6 +80,10 @@ const textContainer = css`
   padding: 0 1rem;
 `;
 
+const video = css`
+  width:100%;
+`;
+
 const HomePageMyServices: FC = () => {
   return (
     <div css={container}>
@@ -125,7 +129,7 @@ const HomePageMyServices: FC = () => {
         </div>
       </div>
 
-      <video loop autoPlay muted className="skillVideo">
+      <video loop autoPlay muted className="skillVideo" css={video}>
         <source src="/images/skill2.mp4" type="video/mp4" />
       </video>
     </div>
