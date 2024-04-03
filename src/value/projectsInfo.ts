@@ -148,10 +148,6 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/naturCycle/Natur21.png"] },
       { image: ["/images/naturCycle/Natur22.png"] },
       { image: ["/images/naturCycle/Natur23.png"] },
-      { image: ["/images/naturCycle/Natur24.png"] },
-      { image: ["/images/naturCycle/Natur25.png"] },
-      { image: ["/images/naturCycle/Natur26.png"] },
-      { image: ["/images/naturCycle/Natur28.png"] },
       { video: "/images/naturCycle/NaturCycle video test.mp4" }
     ],
   },
