@@ -214,7 +214,38 @@ export const projectInfos: ProjectInfo[] = [
           "/images/blanche/Group2_Presentation for BLANCHE Coffee16",
           "/images/blanche/Group2_Presentation for BLANCHE Coffee15",
         ],
-      }
+      },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee3",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee4",
+        ],
+      },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee5",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee6",
+        ],
+      },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee7",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee8",
+        ],
+      },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee9",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee10",
+        ],
+      },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee11",
+          "/images/blanche/Screenshot_9",
+        ],
+      },
+
     ],
   },
   {
