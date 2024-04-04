@@ -40,7 +40,7 @@ export const projectInfos: ProjectInfo[] = [
     tools: "Illustration, Figma",
     img: "/images/Locket/profileImg.png",
     finalProduct: [
-      { image: ["/images/locket/cover.png"] },
+      { image: ["/images/Locket/cover.png"] },
       { image: ["/images/Locket/1. Locket.png"] },
       { image: ["/images/Locket/image 43.png"] },
       { image: ["/images/Locket/2.png"] },
