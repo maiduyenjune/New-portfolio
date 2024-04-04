@@ -42,6 +42,7 @@ export const projectInfos: ProjectInfo[] = [
     finalProduct: [
       { image: ["/images/locket/cover.png"] },
       { image: ["/images/Locket/1. Locket.png"] },
+      { image: ["/images/Locket/image 43.png"] },
       { image: ["/images/Locket/2.png"] },
       { image: ["/images/Locket/3. user need.png"] },
       { image: ["/images/Locket/4. problem to solve.png"] },
@@ -147,7 +148,6 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/naturCycle/Natur20.png"] },
       { image: ["/images/naturCycle/Natur21.png"] },
       { image: ["/images/naturCycle/Natur22.png"] },
-      { image: ["/images/naturCycle/Natur23.png"] },
       { video: "/images/naturCycle/NaturCycle video test.mp4" }
     ],
   },
