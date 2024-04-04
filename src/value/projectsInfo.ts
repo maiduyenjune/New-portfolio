@@ -209,6 +209,12 @@ export const projectInfos: ProjectInfo[] = [
           "/images/blanche/Blanche_Brand Book15.png",
         ],
       },
+      {
+        image: [
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee16",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee15",
+        ],
+      }
     ],
   },
   {
