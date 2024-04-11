@@ -397,6 +397,7 @@ export const projectInfos: ProjectInfo[] = [
       {
         image: ["/images/we earth/Citylight_Mockup_1.png"],
       },
+      { video: "/images/we earth/Newton's Cradle - Incredible Science.mp4", },
 
       { image: ["/images/we earth/Screenshot_3.png"] },
       { image: ["/images/we earth/Screenshot_4.png"] },
