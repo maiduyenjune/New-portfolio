@@ -165,8 +165,25 @@ export const projectInfos: ProjectInfo[] = [
     type: "Branding",
     category: "Group Project",
     designProcess: [
+      { image: ["/images/blanche/word (2).png"] },
+
+      { image: ["/images/blanche/word (1).png"] },
+      {
+        image: [
+          "/images/blanche/Blanche_Brand Book10.png",
+          "/images/blanche/Blanche_Brand Book11.png",
+        ],
+      },
       { image: ["/images/blanche/sketch.png"] },
       { image: ["/images/blanche/Blanche_Brand Book.png"] },
+
+
+      {
+        image: [
+          "/images/blanche/Blanche_Brand Book6.png",
+          "/images/blanche/Blanche_Brand Book7.png",
+        ],
+      },
       {
         image: [
           "/images/blanche/Blanche_Brand Book2.png",
@@ -211,38 +228,38 @@ export const projectInfos: ProjectInfo[] = [
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee16",
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee15",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee16.png",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee15.png",
         ],
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee3",
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee4",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee3.png",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee4.png",
         ],
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee5",
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee6",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee5.png",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee6.png",
         ],
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee7",
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee8",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee7.png",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee8.png",
         ],
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee9",
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee10",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee9.png",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee10.png",
         ],
       },
       {
         image: [
-          "/images/blanche/Group2_Presentation for BLANCHE Coffee11",
-          "/images/blanche/Screenshot_9",
+          "/images/blanche/Group2_Presentation for BLANCHE Coffee11.png",
+          "/images/blanche/Screenshot_9.png",
         ],
       },
 
