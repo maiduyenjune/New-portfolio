@@ -43,6 +43,7 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/Locket/cover.png"] },
       { image: ["/images/Locket/1. Locket.png"] },
       { image: ["/images/Locket/image 43.png"] },
+      { image: ["/images/Locket/how.png"] },
       { image: ["/images/Locket/2.png"] },
       { image: ["/images/Locket/3. user need.png"] },
       { image: ["/images/Locket/4. problem to solve.png"] },
