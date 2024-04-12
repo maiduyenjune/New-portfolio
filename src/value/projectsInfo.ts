@@ -390,8 +390,8 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/we earth/bài.png"], },
       { image: ["/images/we earth/Your big idea.png"], },
       { image: ["/images/we earth/Your big idea (2).png"], },
-      { image: ["/images/we earth/Your big idea (3).png.png"], },
-      { image: ["/images/we earth/Your big idea (4).png.png"], },
+      { image: ["/images/we earth/Your big idea (3).png"], },
+      { image: ["/images/we earth/Your big idea (4).png"], },
 
       {
         image: ["/images/we earth/Ảnh 3.png"],
