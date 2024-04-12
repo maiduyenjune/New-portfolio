@@ -385,6 +385,13 @@ export const projectInfos: ProjectInfo[] = [
     category: "Personal Project",
     intro: "Environment Poster",
     finalProduct: [
+
+      { image: ["/images/we earth/bài.png"], },
+      { image: ["/images/we earth/Your big idea.png"], },
+      { image: ["/images/we earth/Your big idea (2).png"], },
+      { image: ["/images/we earth/Your big idea (3).png.png"], },
+      { image: ["/images/we earth/Your big idea (4).png.png"], },
+
       {
         image: ["/images/we earth/Ảnh 3.png"],
         text: "I want to address a recent event where the Japanese government planned to release a large amount of treated radioactive water from the Fukushima nuclear plant into the Pacific Ocean despite strong criticism from neighboring countries and even Japanese fishermen. Discharging waste into the ocean is like a drop of clean water turning murky, or it can be compared to the image of 'Ripples on a Pond,' meaning just one raindrop falling into the pond is enough to create ripples, disrupting the entire surface of the water.",
