@@ -299,7 +299,7 @@ export const projectInfos: ProjectInfo[] = [
     tools: "Illustration",
     duration: "3 weeks",
     projectPreview:
-      "In the project, my responsibilities include Illustration and Layout. I create visual content that effectively communicates our topic and enhances the project's overall appeal. Additionally, I organize and structure the content and graphics to ensure a coherent, visually engaging, and user-friendly design.",
+      "In the project, my responsibilities include Illustration and Layout. We created an icon brand book for each the characters of the famous story Alice in the wonderland  .",
     type: "Branding",
     img: "/images/icon/Icon_icon%20set.png",
     category: "2 member Group Project",
