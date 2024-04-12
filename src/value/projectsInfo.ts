@@ -309,7 +309,6 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/icon/Icon_about.png"] },
       { image: ["/images/icon/Icon_mood board.png"] },
       { image: ["/images/icon/Icon_mind map.png"] },
-      { image: ["/images/icon/Icon_a col.png"] },
       { image: ["/images/icon/Icon_cat golden.png"] },
       { image: ["/images/icon/Icon_fla gol.png"] },
       { image: ["/images/icon/Icon_golden rabbit.png"] },
