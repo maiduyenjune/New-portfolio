@@ -158,9 +158,9 @@ export const projectInfos: ProjectInfo[] = [
     deliver: "Brand Book",
     description: "Branding",
     slug: "blanche",
-    tools: "Indesign, Illustion, Photoshop",
+    tools: "Indesign, Illustion, Photoshop, Cinema 4D",
     img: "/images/blanche/Blanche_Brand%20Book.png",
-    duration: "4 weeks",
+    duration: "10 weeks",
     projectPreview:
       "Create a new coffee brand with brand books including new logo, color pallete, new websites and app for ordering",
     type: "Branding",
