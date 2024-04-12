@@ -440,7 +440,7 @@ export const projectInfos: ProjectInfo[] = [
   },
   {
     title: "Motion Package Brief",
-    deliver: "User interface for App, New Feature",
+    deliver: "Motion graphic package for a lyrics video https://app.milanote.com/1R3t2c1fRXzI9e/preproduction-june-duyen-nguyen?p=fVYmWhXmJqR",
     description: "Motion Graphic Video",
     slug: "motion",
     tools: "After Effect",
@@ -454,7 +454,7 @@ export const projectInfos: ProjectInfo[] = [
   },
   {
     title: "Drinking Hub",
-    deliver: "User interface for App, New Feature",
+    deliver: "3D video",
     description: "3D Staging",
     slug: "3d",
     tools: "Substance 3D Stager",
