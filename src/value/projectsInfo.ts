@@ -469,7 +469,7 @@ export const projectInfos: ProjectInfo[] = [
     title: "Demo Reel",
     deliver: "",
     description: "Demo Reel",
-    slug: "motion",
+    slug: "demoreel",
     tools: "After Effect",
     duration: "1 weeks",
     projectPreview: "",
@@ -477,8 +477,7 @@ export const projectInfos: ProjectInfo[] = [
     category: "Personal Project",
     video: "/images/demo reels.mp4",
     intro: "Demo Reel",
-    finalProduct: [{     video: "/images/demo reels.mp4",
-  }],
+    finalProduct: [{video: "/images/demo reels.mp4",}],
   },
   {
     title: "Drinking Hub",
