@@ -477,7 +477,8 @@ export const projectInfos: ProjectInfo[] = [
     category: "Personal Project",
     video: "/images/demo reels.mp4",
     intro: "Demo Reel",
-    finalProduct: [{ video: "/images/demo reels.mp4" }],
+    finalProduct: [{     video: "/images/demo reels.mp4",
+  }],
   },
   {
     title: "Drinking Hub",
