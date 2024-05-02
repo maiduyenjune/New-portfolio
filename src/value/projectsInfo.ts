@@ -60,60 +60,60 @@ export const projectInfos: ProjectInfo[] = [
       { video: "/images/Locket/video locket.mp4" }
     ],
   },
-  {
-    img: "/images/personal/Image0001.png",
-    title: "Personal Portfolio",
-    deliver: "User interface for App, New Feature",
-    description: "UI Design - Web Development - Motion",
-    slug: "personal-portfolio",
-    tools: "Figma, Visual Studio Code, After effect, Photoshop, Illustrator",
-    duration: "6 weeks",
-    projectPreview:
-      "This project involves creating my own portfolio website and branding, which includes designing website interfaces, web development, and incorporating appealing animations for added features.",
-    type: "UIUX",
-    category: "Personal Project",
-    intro: "Web Development, Web Design, Motion",
-    designProcess: [
-      {
-        text: "I began by creating several logo concepts for your personal branding portfolio, drawing inspiration from my personality, preferences, photo, and job title. Refine these concepts to create a final logo and experiment with different color schemes.",
-      },
-      {
-        text: "Next, I brainstormed ideas that align with insights gained from the logo creation process.",
-      },
-      {
-        image: ["/images/personal/Brand_Template (1).png"],
-      },
-      {
-        image: [
-          "/images/personal/blue ver.png",
-          "/images/personal/brand june logo typo.png",
-          "/images/personal/a.png",
-        ],
-      },
-      {
-        text: "I used Figma to design the website, incorporating ideas and leveraging After Effects to add engaging motion elements for a fun user experience.",
-      },
-      {
-        video:
-          "/images/personal/Adobe After Effects 2024 - Untitled Project.aep _ 2024-03-25 14-24-15.mp4",
-      },
-      {
-        text: "And Final result..",
-      },
-      {
-        video: "/images/personal/Comp 1.mp4",
-      },
-      {
-        video: "/images/skill2.mp4",
-      },
-      {
-        text: "Then I proceed to web development, coding the design using HTML, CSS, and JavaScript to bring my site to life.",
-      },
-      {
-        image: ["/images/personal/Screenshot_2.png"],
-      },
-    ],
-  },
+  // {
+  //   img: "/images/personal/Image0001.png",
+  //   title: "Personal Portfolio",
+  //   deliver: "User interface for App, New Feature",
+  //   description: "UI Design - Web Development - Motion",
+  //   slug: "personal-portfolio",
+  //   tools: "Figma, Visual Studio Code, After effect, Photoshop, Illustrator",
+  //   duration: "6 weeks",
+  //   projectPreview:
+  //     "This project involves creating my own portfolio website and branding, which includes designing website interfaces, web development, and incorporating appealing animations for added features.",
+  //   type: "UIUX",
+  //   category: "Personal Project",
+  //   intro: "Web Development, Web Design, Motion",
+  //   designProcess: [
+  //     {
+  //       text: "I began by creating several logo concepts for your personal branding portfolio, drawing inspiration from my personality, preferences, photo, and job title. Refine these concepts to create a final logo and experiment with different color schemes.",
+  //     },
+  //     {
+  //       text: "Next, I brainstormed ideas that align with insights gained from the logo creation process.",
+  //     },
+  //     {
+  //       image: ["/images/personal/Brand_Template (1).png"],
+  //     },
+  //     {
+  //       image: [
+  //         "/images/personal/blue ver.png",
+  //         "/images/personal/brand june logo typo.png",
+  //         "/images/personal/a.png",
+  //       ],
+  //     },
+  //     {
+  //       text: "I used Figma to design the website, incorporating ideas and leveraging After Effects to add engaging motion elements for a fun user experience.",
+  //     },
+  //     {
+  //       video:
+  //         "/images/personal/Adobe After Effects 2024 - Untitled Project.aep _ 2024-03-25 14-24-15.mp4",
+  //     },
+  //     {
+  //       text: "And Final result..",
+  //     },
+  //     {
+  //       video: "/images/personal/Comp 1.mp4",
+  //     },
+  //     {
+  //       video: "/images/skill2.mp4",
+  //     },
+  //     {
+  //       text: "Then I proceed to web development, coding the design using HTML, CSS, and JavaScript to bring my site to life.",
+  //     },
+  //     {
+  //       image: ["/images/personal/Screenshot_2.png"],
+  //     },
+  //   ],
+  // },
   {
     title: "NATURCYCLE",
     deliver: "User interface for App, Packaging, Logo of app",
