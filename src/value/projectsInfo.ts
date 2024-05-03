@@ -278,7 +278,7 @@ export const projectInfos: ProjectInfo[] = [
       "This project is a creative exploration of Vietnamese cuisine through a series of stamp collection illustrations.",
     type: "Branding",
     category: "Personal Project",
-    intro: "UX Case Study",
+    intro: "Illustration",
     finalProduct: [
       { image: ["/images/stamp/1.png"] },
       { image: ["/images/stamp/2.png"] },
@@ -304,7 +304,7 @@ export const projectInfos: ProjectInfo[] = [
     type: "Branding",
     img: "/images/icon/Icon_icon%20set.png",
     category: "2 member Group Project",
-    intro: "UX Case Study",
+    intro: "Illustration",
     finalProduct: [
       { image: ["/images/icon/Icon_Cover 1.png"] },
       { image: ["/images/icon/Icon_about.png"] },
@@ -326,52 +326,52 @@ export const projectInfos: ProjectInfo[] = [
       { image: ["/images/icon/Icon_Thank you.png"] },
     ],
   },
-  {
-    title: "Too Good To go Campaign",
-    deliver: "Campaign Strategy",
-    img: "/images/tooGood/12@2x.png",
-    description: "",
-    slug: "Campaign Strategy",
-    tools: "Photoshop, Adobe XD",
-    duration: "1 week",
-    projectPreview:
-      "Our project focuses on enhancing the brand awareness of Too Good To Go, a sustainable food waste reduction platform, in Canada. The client brief highlighted the brand's low awareness in the Canadian market and the desire to become more recognized. To achieve this goal, our team undertook several key tasks.",
-    type: "Branding",
-    category: "Group Project",
-    intro: "Branding & Strategy",
-    finalProduct: [
-      {
-        text: "Firstly, we identified the brand's key attributes, values, and unique selling propositions (USPs) through thorough market research and analysis. This helped us understand what sets Too Good To Go apart from competitors and how to effectively communicate its value to the target audience.",
-      },
-      {
-        image: ["/images/tooGood/3@2x.png"],
-      },
-      {
-        text: "Next, we developed detailed buyer personas representing different segments of the Canadian market. These personas were based on demographic, psychographic, and behavioral data, allowing us to tailor our messaging and strategies to resonate with each audience segment.",
-      },
-      {
-        image: ["/images/tooGood/4@2x.png"],
-      },
-      {
-        text: "We also created a customer journey map to visualize the user experience from awareness to conversion and advocacy. This map helped us identify pain points, opportunities for engagement, and touchpoints where the brand could make a meaningful impact on its audience.",
-      },
-      { image: ["/images/tooGood/5@2x.png"] },
-      { image: ["/images/tooGood/6@2x.png"] },
-      { image: ["/images/tooGood/7@2x.png"] },
-      { image: ["/images/tooGood/8@2x.png"] },
-      { image: ["/images/tooGood/9@2x.png"] },
-      { image: ["/images/tooGood/10@2x.png"] },
-      { image: ["/images/tooGood/11@2x.png"] },
-      { image: ["/images/tooGood/12@2x.png"] },
-      { image: ["/images/tooGood/13@2x.png"] },
-      { image: ["/images/tooGood/14@2x.png"] },
-      { image: ["/images/tooGood/15@2x.png"] },
-      { image: ["/images/tooGood/16@2x.png"] },
-      { image: ["/images/tooGood/17@2x.png"] },
-      { image: ["/images/tooGood/18@2x.png"] },
+  // {
+  //   title: "Too Good To go Campaign",
+  //   deliver: "Campaign Strategy",
+  //   img: "/images/tooGood/12@2x.png",
+  //   description: "",
+  //   slug: "Campaign Strategy",
+  //   tools: "Photoshop, Adobe XD",
+  //   duration: "1 week",
+  //   projectPreview:
+  //     "Our project focuses on enhancing the brand awareness of Too Good To Go, a sustainable food waste reduction platform, in Canada. The client brief highlighted the brand's low awareness in the Canadian market and the desire to become more recognized. To achieve this goal, our team undertook several key tasks.",
+  //   type: "Branding",
+  //   category: "Group Project",
+  //   intro: "Branding & Strategy",
+  //   finalProduct: [
+  //     {
+  //       text: "Firstly, we identified the brand's key attributes, values, and unique selling propositions (USPs) through thorough market research and analysis. This helped us understand what sets Too Good To Go apart from competitors and how to effectively communicate its value to the target audience.",
+  //     },
+  //     {
+  //       image: ["/images/tooGood/3@2x.png"],
+  //     },
+  //     {
+  //       text: "Next, we developed detailed buyer personas representing different segments of the Canadian market. These personas were based on demographic, psychographic, and behavioral data, allowing us to tailor our messaging and strategies to resonate with each audience segment.",
+  //     },
+  //     {
+  //       image: ["/images/tooGood/4@2x.png"],
+  //     },
+  //     {
+  //       text: "We also created a customer journey map to visualize the user experience from awareness to conversion and advocacy. This map helped us identify pain points, opportunities for engagement, and touchpoints where the brand could make a meaningful impact on its audience.",
+  //     },
+  //     { image: ["/images/tooGood/5@2x.png"] },
+  //     { image: ["/images/tooGood/6@2x.png"] },
+  //     { image: ["/images/tooGood/7@2x.png"] },
+  //     { image: ["/images/tooGood/8@2x.png"] },
+  //     { image: ["/images/tooGood/9@2x.png"] },
+  //     { image: ["/images/tooGood/10@2x.png"] },
+  //     { image: ["/images/tooGood/11@2x.png"] },
+  //     { image: ["/images/tooGood/12@2x.png"] },
+  //     { image: ["/images/tooGood/13@2x.png"] },
+  //     { image: ["/images/tooGood/14@2x.png"] },
+  //     { image: ["/images/tooGood/15@2x.png"] },
+  //     { image: ["/images/tooGood/16@2x.png"] },
+  //     { image: ["/images/tooGood/17@2x.png"] },
+  //     { image: ["/images/tooGood/18@2x.png"] },
 
-    ],
-  },
+  //   ],
+  // },
   {
     title: "WeEarth Environment Poster - First Prize",
     deliver: "Environment Poster",
