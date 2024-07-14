@@ -5,7 +5,7 @@ const colors = {
   pink: "#F191EE",
   green: "#0DF4C1",
   yellow: "#ffdd00",
-  blue: "#14009D",
+  blue: " ",
   black: "#000",
 };
 
