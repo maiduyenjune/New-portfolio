@@ -20,7 +20,7 @@ const contentWrapper = css`
   display: grid;
   grid-gap: 1rem;
   row-gap: 5rem;
-  grid-template-columns: repeat(auto-fill, minmax(24rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(32rem, 1fr));
 `;
 
 const heading = css`

@@ -25,40 +25,40 @@ export type ProjectInfo = {
   }>;
 };
 
-export const projectInfos: ProjectInfo[] = [
-  {
-    title: "LOCKET WIDGET",
-    description: "UX Research - Redesign",
-    intro: "UX case study",
-    slug: "locket",
-    projectPreview:
-      "The Locket app enhancement project aims to elevate the user experience by introducing new features and functionalities that enrich the core concept of real-time photo sharing among close friends. Locket has already established itself as a platform that captures and shares precious moments effortlessly. This project seeks to build upon its success by integrating innovative capabilities that enhance user engagement and interaction within the app.",
-    deliver: "User interface for App, New Feature",
-    duration: "8 weeks",
-    type: "UIUX",
-    category: "Personal Project",
-    tools: "Illustration, Figma",
-    img: "/images/Locket/profileImg.png",
-    finalProduct: [
-      { image: ["/images/Locket/cover.png"] },
-      { image: ["/images/Locket/1. Locket.png"] },
-      { image: ["/images/Locket/image 43.png"] },
-      { image: ["/images/Locket/how.png"] },
-      { image: ["/images/Locket/2.png"] },
-      { image: ["/images/Locket/3. user need.png"] },
-      { image: ["/images/Locket/4. problem to solve.png"] },
-      { image: ["/images/Locket/5. Assumptions.png"] },
-      { image: ["/images/Locket/6. seconadry research.png"] },
-      { image: ["/images/Locket/7. competitor.png"] },
-      { image: ["/images/Locket/8. CSD MATRIX.png"] },
-      { image: ["/images/Locket/9. USER INTERVIEW.png"] },
-      { image: ["/images/Locket/9. persona.png"] },
-      { image: ["/images/Locket/10.empathy map.png"] },
-      { image: ["/images/Locket/11.png"] },
-      { image: ["/images/Locket/12.png"] },
-      { image: ["/images/Locket/13.png"] },
-      { video: "/images/Locket/video locket.mp4" }
-    ],
+// export const projectInfos: ProjectInfo[] = [
+//   {
+//     title: "LOCKET WIDGET",
+//     description: "UX Research - Redesign",
+//     intro: "UX case study",
+//     slug: "locket",
+//     projectPreview:
+//       "The Locket app enhancement project aims to elevate the user experience by introducing new features and functionalities that enrich the core concept of real-time photo sharing among close friends. Locket has already established itself as a platform that captures and shares precious moments effortlessly. This project seeks to build upon its success by integrating innovative capabilities that enhance user engagement and interaction within the app.",
+//     deliver: "User interface for App, New Feature",
+//     duration: "8 weeks",
+//     type: "UIUX",
+//     category: "Personal Project",
+//     tools: "Illustration, Figma",
+//     img: "/images/Locket/profileImg.png",
+//     finalProduct: [
+//       { image: ["/images/Locket/cover.png"] },
+//       { image: ["/images/Locket/1. Locket.png"] },
+//       { image: ["/images/Locket/image 43.png"] },
+//       { image: ["/images/Locket/how.png"] },
+//       { image: ["/images/Locket/2.png"] },
+//       { image: ["/images/Locket/3. user need.png"] },
+//       { image: ["/images/Locket/4. problem to solve.png"] },
+//       { image: ["/images/Locket/5. Assumptions.png"] },
+//       { image: ["/images/Locket/6. seconadry research.png"] },
+//       { image: ["/images/Locket/7. competitor.png"] },
+//       { image: ["/images/Locket/8. CSD MATRIX.png"] },
+//       { image: ["/images/Locket/9. USER INTERVIEW.png"] },
+//       { image: ["/images/Locket/9. persona.png"] },
+//       { image: ["/images/Locket/10.empathy map.png"] },
+//       { image: ["/images/Locket/11.png"] },
+//       { image: ["/images/Locket/12.png"] },
+//       { image: ["/images/Locket/13.png"] },
+//       { video: "/images/Locket/video locket.mp4" }
+//     ],
   },
   // {
   //   img: "/images/personal/Image0001.png",
