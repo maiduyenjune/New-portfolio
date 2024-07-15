@@ -59,7 +59,7 @@ export type ProjectInfo = {
 //       { image: ["/images/Locket/13.png"] },
 //       { video: "/images/Locket/video locket.mp4" }
 //     ],
-  },
+  // },
   // {
   //   img: "/images/personal/Image0001.png",
   //   title: "Personal Portfolio",
