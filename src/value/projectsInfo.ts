@@ -25,7 +25,7 @@ export type ProjectInfo = {
   }>;
 };
 
-// export const projectInfos: ProjectInfo[] = [
+export const projectInfos: ProjectInfo[] = [
 //   {
 //     title: "LOCKET WIDGET",
 //     description: "UX Research - Redesign",
